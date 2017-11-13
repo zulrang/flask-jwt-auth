@@ -69,3 +69,8 @@ With coverage:
 ```sh
 $ python manage.py cov
 ```
+
+From:
+```
+https://realpython.com/blog/python/token-based-authentication-with-flask/
+```
